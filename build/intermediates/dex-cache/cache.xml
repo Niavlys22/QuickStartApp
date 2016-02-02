@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sylva\StudioProjects\QuickStartApp1\app\libs\huelocalsdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b1a614771148bb6e955f44722dfdaeb0da11925">
+        <dex dex="C:\Users\sylva\StudioProjects\QuickStartApp1\app\build\intermediates\pre-dexed\debug\huelocalsdk-4abcd76e37ce39bdf26bef7790a781463d78595f.jar" />
+    </item>
+    <item
+        jar="C:\Users\sylva\StudioProjects\QuickStartApp1\app\libs\huesdkresources.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4ab4750a4b01156a5aa3ca6c591d9650424ce70d">
+        <dex dex="C:\Users\sylva\StudioProjects\QuickStartApp1\app\build\intermediates\pre-dexed\debug\huesdkresources-11aeed8cbcde9d93ad9c3ccc050f504254643138.jar" />
+    </item>
+
+</items>
